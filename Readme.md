@@ -5,11 +5,11 @@
 
 ---
 
-# 💫 About Rishi
+# 💫 About Manikant
 
-🎓 **BE in Computer Science** @ Vivekananda Institute of Technology (GPA: **8.50 / 10**)  
-💻 **Full-Stack Developer (MERN & Next.js)** | 🤖 **Machine Learning Enthusiast**  
-🌍 Based in **Bengaluru, India** | 📧 [Email](mailto:rishimanjunath15@gmail.com) | 🌐 [Portfolio](#) | [LinkedIn](https://linkedin.com/in/rishimanjunath)  
+🎓 **BE in Information science** @ PDA college of engineering (GPA: **7.5 / 10**)  
+💻 java developer | JAVA Enthusiast** 
+🌍 Based in **Bengaluru, India** | 📧 [Email](manikantsk28@gmail.com) | 🌐 [Portfolio](#) | [LinkedIn](http://linkedin.com/in/manikant-sk-271b64288)  
 
 > _"Code is the canvas where logic meets creativity."_  
 
@@ -40,7 +40,7 @@
 
 # 🎓 Education  
 
-📍 **Vivekananda Institute of Technology, Bangalore**  
+📍 **PDA college of engineering**  
 _Bachelor of Engineering (BE) in Information Science_  
 📊 GPA: **8.45 / 10** (2022 – Present)  
 
@@ -49,7 +49,7 @@ _Bachelor of Engineering (BE) in Information Science_
 # 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,java,react,nextjs,nodejs,express,mongodb,html,css,tailwind,git,github,python,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=js,java,react,nodejs,express,mongodb,html,css,tailwind,git,github,python,tensorflow" />
 </p>
 
 ---
@@ -64,7 +64,7 @@ _Bachelor of Engineering (BE) in Information Science_
 # 📫 Connect With Me  
 
 <p align="center">
-  <a href="mailto:rishimanjunath15@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:manikantsk28@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/rishimanjunath"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
