@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=200&section=header&text=Hi%20👋%20I'm%20Rishi%20M&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=200&section=header&text=Hi%20👋%20I'm%20Manikant%20M&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 
 # 💼 Experience  
 
-### 🖥️ **Web Dev Intern** @ Karnataka Vidyarthi Koota (Jun 2025 – Present)  
+### 🖥️ **java intern** @ Dhee coding lab (Jan 2026 – Present)  
 - 🚀 Increased event traffic by **35%** through a mobile-optimized site  
 - 🛠️ Built adaptive UI using **Next.js, Tailwind CSS & Shadcn**  
 - 🔗 [Live Demo](#)  
