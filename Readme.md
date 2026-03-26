@@ -7,7 +7,7 @@
 
 # 💫 About Rishi
 
-🎓 **BE in Information Science** @ Vivekananda Institute of Technology (GPA: **8.50 / 10**)  
+🎓 **BE in Computer Science** @ Vivekananda Institute of Technology (GPA: **8.50 / 10**)  
 💻 **Full-Stack Developer (MERN & Next.js)** | 🤖 **Machine Learning Enthusiast**  
 🌍 Based in **Bengaluru, India** | 📧 [Email](mailto:rishimanjunath15@gmail.com) | 🌐 [Portfolio](#) | [LinkedIn](https://linkedin.com/in/rishimanjunath)  
 
